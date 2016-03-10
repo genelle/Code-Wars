@@ -7,3 +7,5 @@ Goals:
 
 Changes:
 * 02.10.2016 - Added repository, added some completed katas. 
+
+* 03.09.2016 - Added more completed katas.

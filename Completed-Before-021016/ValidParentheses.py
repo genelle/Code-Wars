@@ -1,3 +1,6 @@
+# Valid Parentheses
+#http://www.codewars.com/kata/valid-parentheses/
+
 def valid_parentheses(string):
     right = 0
     left = 0
